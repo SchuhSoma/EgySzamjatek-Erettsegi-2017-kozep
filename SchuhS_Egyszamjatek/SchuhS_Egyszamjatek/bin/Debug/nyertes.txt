@@ -1,0 +1,3 @@
+﻿	A forduló sorszáma: 2
+	A forduló nyerőszáma : 3
+	Az adott forduló nyertesének neve: Tibi

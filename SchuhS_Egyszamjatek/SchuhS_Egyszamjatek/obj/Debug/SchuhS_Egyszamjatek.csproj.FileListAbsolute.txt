@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\bin\Debug\SchuhS_Egyszamjatek.exe.config
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\bin\Debug\SchuhS_Egyszamjatek.exe
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\bin\Debug\SchuhS_Egyszamjatek.pdb
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\obj\Debug\SchuhS_Egyszamjatek.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\obj\Debug\SchuhS_Egyszamjatek.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\obj\Debug\SchuhS_Egyszamjatek.exe
+C:\Users\Soma\Documents\C#2\SchuhS_Egyszamjatek\SchuhS_Egyszamjatek\obj\Debug\SchuhS_Egyszamjatek.pdb
